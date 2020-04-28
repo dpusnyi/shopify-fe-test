@@ -1,0 +1,10 @@
+# OS or Editor folders
+.DS_Store
+
+# Folders to ignore
+build
+dist
+node_modules
+
+# Files to ignore
+.env
